@@ -7,6 +7,7 @@ using System.Text;
 
 abstract class Restarunt
 {
+    // count of tablets
     public int TabletCount = 20;
 
     protected string Name; 
